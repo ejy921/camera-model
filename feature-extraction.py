@@ -134,3 +134,4 @@ dy = abs(endpoint1[1] - endpoint2[1])
 dx = abs(endpoint1[0] - endpoint2[0])
 slope = dy / dx
 print(slope) 
+y-intercept = 
